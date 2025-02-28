@@ -1,8 +1,8 @@
 import json
 import time
 
-from service.cag_model import CAGModel
-from service.rag_model import RAGModel
+from cag_model import CAGModel
+from rag_model import RAGModel
 
 
 class ModelTester:
